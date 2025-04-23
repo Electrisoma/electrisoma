@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>My guthib page or something idk</title>
+<title>Guthub page</title>
 </head>
 <body>
 <h1>Whaddup</h1>
