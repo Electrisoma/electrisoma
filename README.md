@@ -4,4 +4,4 @@ I'm make stuff
 
 Probably making stuff right now
 
-![alt text](https://github.com/Electrisoma/electrisoma/blob/main/assets/stupid%20cat.jpg "Stupid cat")
+![](https://github.com/Electrisoma/electrisoma/blob/main/assets/stupid%20cat.jpg=250x250 "Stupid Cat")
