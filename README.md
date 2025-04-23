@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Guthub page</title>
-</head>
 <body>
 <h1>Whaddup</h1>
 
